@@ -9,3 +9,4 @@ const getItem = () => {
 function getA(a) {
   console.log(a);
 }
+function b() {}
