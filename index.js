@@ -9,4 +9,6 @@ const getItem = () => {
 function getA(a) {
   console.log(a);
 }
-function b() {}
+function b() {
+  console.log("b");
+}
