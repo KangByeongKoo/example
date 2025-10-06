@@ -5,3 +5,5 @@ const getItem = () => {
     console.log("ss");
   }
 };
+
+function b() {}
